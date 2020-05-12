@@ -1,0 +1,21 @@
+{
+    "name": "test vf60",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "vf60": "github:clh27/pxt-vf60#v1.0.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "tsprj"
+}
